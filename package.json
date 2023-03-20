@@ -8,7 +8,7 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@pexeso/ui-core": "0.10.0--canary.69.480901b.0",
+    "@pexeso/ui-core": "0.10.0--canary.69.814910f.0",
     "@nuxtjs/tailwindcss": "^6.6.0",
     "nuxt": "^3.3.1"
   },
