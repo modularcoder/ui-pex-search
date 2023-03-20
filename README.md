@@ -2,6 +2,15 @@
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## .npmrc
+
+```
+shamefully-hoist=true
+strict-peer-dependencies=false
+@pexeso:registry=https://npm.pkg.github.com
+//npm.pkg.github.com/:_authToken={YOUR_TOKEN}
+```
+
 ## Setup
 
 Make sure to install the dependencies:
